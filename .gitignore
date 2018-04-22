@@ -8,4 +8,3 @@ bin/.jetty
 /bin
 .idea
 .DS_Store
-/dp-qa-service/target/
