@@ -1,0 +1,11 @@
+*.iml
+target
+.classpath
+.project
+.settings/
+.settings
+bin/.jetty
+/bin
+.idea
+.DS_Store
+/dp-qa-service/target/
